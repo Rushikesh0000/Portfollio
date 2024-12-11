@@ -1,0 +1,33 @@
+.about-container {
+    background-color: #f0f8ff; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-container h2 {
+    color: #003366;  
+    margin-bottom: 20px;
+}
+
+.about-container p {
+    font-size: 18px;
+    color: #2f4f4f; 
+}
+
+.about-container strong {
+    font-size: 20px;
+    color: #0066cc;
+}
+
+.project-name {
+    color: #1E90FF;  
+    font-weight: bold;
+}
+
+
+.experience 
+{
+    color: #32CD32;  
+    font-weight: bold;
+}
